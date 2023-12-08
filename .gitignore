@@ -1,13 +1,7 @@
-# Ignore x64 directory
 x64/
-
-# Ignore build directory
 build/
-
-# Ignore files with .db extension
+.vs/
 *.db
-
-# Ignore files with .opendb extension
 *.opendb
 
 # Ignore log.txt and g3d-license.txt in the data-files directory
